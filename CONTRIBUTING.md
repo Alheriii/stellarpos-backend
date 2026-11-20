@@ -14,6 +14,8 @@ npm run dev
 Node.js 22.13 or newer is required for the built-in `node:sqlite` module
 (see `.nvmrc`).
 
+Environment variables and troubleshooting: [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md) and [docs/ENVIRONMENT.md](docs/ENVIRONMENT.md).
+
 ## Already have a fork?
 
 Every fork of this repository is listed in [CONTRIBUTORS.md](CONTRIBUTORS.md#forks).
